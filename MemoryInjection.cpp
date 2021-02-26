@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 
   char *p1 = "Rosebud"; // the top secret password
   char *p2 = "Safe";
